@@ -7,3 +7,6 @@
 
 Inspired by https://github.com/airbnb/react-dates
 
+## Dependencies
+
+react-dttpicker uses the [moment.js](https://github.com/moment/moment) library
