@@ -1,3 +1,4 @@
-# react-datetime-picker
+[![NPM](https://nodei.co/npm/react-dttpicker.png?mini=true)](https://nodei.co/npm/react-dttpicker/)
 
 Inspired by https://github.com/airbnb/react-dates
+
