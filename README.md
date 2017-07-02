@@ -1,5 +1,4 @@
 # react-dttpicker
----
 
 [![devDependencies](https://david-dm.org/reminouche/react-dttpicker.svg)](https://david-dm.org/reminouche/react-dttpicker#info=devDependencies)
 
